@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gnome-terminal -- sh /home/s/.bash/bin/you_launch.sh
+gnome-terminal -- sh /home/user/.bash/bin/you_launch.sh
