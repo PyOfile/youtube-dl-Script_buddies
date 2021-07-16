@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script leaves you with an audio or video choice then calls the appropriate script for the job.
 
 read -p "Enter your choice [A] audio [V] video: " choice
  
